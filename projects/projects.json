@@ -1342,7 +1342,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1506,6 +1506,22 @@
         "CSS3",
         "Mobile",
         "jQuery"
+      ]
+    },
+    {
+      "name": "jsGen",
+      "thumb": "jsgen/thumb.png",
+      "desc": "JsGen is a next generation，free, open source web software that you can generate a powerful website, such as blog, forum, etc. It is coded by pure JavaScript, based on Node.js, AngularJS, MongoDB.",
+      "url": "http://angularjs.cn",
+      "info": "http://angularjs.cn/tag/jsGen",
+      "src": "https://github.com/zensh/jsgen",
+      "submitter": "zensh",
+      "submissionDate": "2013-05-06",
+      "tags": [
+        "Production", "CRUD", "Productivity",
+        "Local Storage", "AppCache", "Node.js", "mongoDB",
+        "jQuery",
+        "Open Source"
       ]
     }
   ]
